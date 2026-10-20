@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/coleifer/sqlite-web/commit/974a910019a31078df69fbe98901fe859d3089a3",
       "git:hexsha": "974a910019a31078df69fbe98901fe859d3089a3",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/coleifer/sqlite-web/commit/29786aefb838325c3f87309a87c24c8f050f765a",
